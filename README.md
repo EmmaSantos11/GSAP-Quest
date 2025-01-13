@@ -1,1 +1,2 @@
 # GSAP-Quest
+#GSAP Quest is an engaging game developed using jQuery for DOM manipulation and GSAP for smooth, interactive animations. The game combines intuitive gameplay with dynamic visual effects, offering a fluid and immersive user experience. With jQuery handling interactions and GSAP providing advanced animations, the game creates a seamless, exciting experience that works smoothly across modern browsers.
